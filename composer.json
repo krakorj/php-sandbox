@@ -1,5 +1,5 @@
 {
-    "name": "A PHP sandbox",
+    "name": "krakorj/php-sandbox",
     "description": "A sandbox for PHP projects",
     "license": "MIT",
     "require": {
