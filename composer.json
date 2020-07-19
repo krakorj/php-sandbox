@@ -3,6 +3,6 @@
     "description": "A sandbox for PHP projects",
     "license": "MIT",
     "require": {
-        "vrana/adminer": "4.7.*"
+        "phpunit/phpunit": "^9"
     }
 }
