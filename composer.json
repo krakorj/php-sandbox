@@ -1,4 +1,7 @@
 {
+    "name": "A PHP sandbox",
+    "description": "A sandbox for PHP projects",
+    "license": "MIT",
     "require": {
         "vrana/adminer": "4.7.*"
     }
