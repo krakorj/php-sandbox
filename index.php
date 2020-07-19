@@ -1,1 +1,5 @@
-<? echo "Ahoj PHP"
+<? 
+
+echo "Here we are :)<br><br>";
+
+phpinfo();
