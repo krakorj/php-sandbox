@@ -1,6 +1,6 @@
 # php-sandbox
 
-Sandbox for a PHP experiments
+Sandbox for PHP experiments
 
 # References
 
